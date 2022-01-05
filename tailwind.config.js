@@ -2,7 +2,7 @@ module.exports = {
   content: ["./dist/**/*.html"],
   theme: {
     fontFamily: {
-      'sans': ['"Segoe UI"', 'sans-serif'],
+      'sans': ['"Segoe UI"', 'Arial', 'Helvetica', 'sans-serif'],
     },
     extend: {
       colors: {
